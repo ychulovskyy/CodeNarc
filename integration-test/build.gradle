@@ -12,7 +12,7 @@ dependencies {
         exclude group: 'org.codehaus.groovy'
     }
     testCompile gradleTestKit()
-    testCompile 'junit:junit:4.12'
+    testCompile 'junit:junit:4.13'
 }
 
 test {
